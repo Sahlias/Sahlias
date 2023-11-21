@@ -7,9 +7,7 @@
        Je suis développeur fullstack.<br>
          N'hésitez pas à jeter un coup d'œil à mes projets<br>
     </i><br>
-    <a href="mailto:asaadsahli@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
+  
 
 ### Contact
 
