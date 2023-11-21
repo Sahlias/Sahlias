@@ -14,6 +14,10 @@
 - 📧 Email: [asaadsahli@gmail.com](mailto:asaadsahli@gmail.com)
 - ☎ Téléphone: 07 81 85 10 85
 </p>
+### Profil LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaad-sahli-8503421b2/)
+
 
 ### Objectif
 
