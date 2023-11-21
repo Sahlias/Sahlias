@@ -28,22 +28,49 @@
 
 Je suis actuellement étudiant chez [Simplon](https://simplon.co/), suivant une formation en Concepteur Développeur d'Applications avec une spécialisation en environnement DevOps. Passionné par le développement logiciel et l'infrastructure, je suis à la recherche d'une entreprise à partir du 12/02/2024 pour mon alternance au rythme de 3 semaine en entreprise et 1 semaine en formation, où je pourrais mettre en pratique mes compétences et contribuer à des projets stimulants.
 
+### Compétences Techniques
 
-### Developpement
+- **Développement Frontend:**
+  - [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Sahlias)
+  - [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/Sahlias)
+  - [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Sahlias)
+  - [![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://hub.docker.com/u/Sahlias)
+  - [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://hub.docker.com/u/Sahlias)
+  - [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://hub.docker.com/u/Sahlias)
 
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Sahlias)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/Sahlias)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Sahlias)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahlias)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Sahlias)
-[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/Sahlias)
+- **Développement Backend:**
+  - [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Sahlias)
+  - [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/Sahlias)
+  - [![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://hub.docker.com/u/Sahlias)
 
-### Frameworks
+- **Base de données:**
+  - [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahlias)
+  - [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahlias)
+  - [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Sahlias)
 
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://hub.docker.com/u/Sahlias)
-[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://hub.docker.com/u/Sahlias)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://hub.docker.com/u/Sahlias)
-[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://hub.docker.com/u/Sahlias)
+- **Environnement DevOps:**
+  - [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Sahlias)
+  - [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/Sahlias)
+  - [![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/Sahlias)
+  - [![CI/CD](https://img.shields.io/badge/ci/cd-black?style=for-the-badge&logo=continuous-integration)](https://github.com/Sahlias)
+
+- **Outils de Collaboration:**
+  - [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Sahlias)
+  - [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/Sahlias)
+  - [![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com/)
+
+- **Méthodologies et Outils Agile:**
+  - [![Scrum](https://img.shields.io/badge/scrum-black?style=for-the-badge&logo=scrum)](https://github.com/Sahlias)
+  - [![Kanban](https://img.shields.io/badge/kanban-black?style=for-the-badge&logo=kanban)](https://github.com/Sahlias)
+  - [![Trello](https://img.shields.io/badge/trello-black?style=for-the-badge&logo=trello)](https://trello.com/)
+
+- **Design:**
+  - [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://www.figma.com/)
+  - [![Canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva)](https://www.canva.com/)
+
+- **Éditeurs de Code:**
+  - [![VS Code](https://img.shields.io/badge/vs_code-black?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+
 
 ### Outils
 [![Canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva)](https://www.canva.com/)
