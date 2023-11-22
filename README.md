@@ -54,6 +54,10 @@ Je suis actuellement étudiant chez [Simplon](https://simplon.co/), suivant une 
   - [![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/Sahlias)
   - [![CI/CD](https://img.shields.io/badge/ci/cd-black?style=for-the-badge&logo=continuous-integration)](https://github.com/Sahlias)
 
+- **Utilisation d'API:**
+  - [![RESTful](https://img.shields.io/badge/restful-black?style=for-the-badge&logo=api)](https://github.com/Sahlias)
+  - [![API Platform](https://img.shields.io/badge/api_platform-black?style=for-the-badge&logo=api)](https://github.com/Sahlias)
+
 - **Outils de Collaboration:**
   - [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Sahlias)
   - [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/Sahlias)
