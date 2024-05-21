@@ -66,7 +66,6 @@ Je suis actuellement étudiant chez [IB cegos](https://www.ib-formation.fr/)
 
 - **Méthodologies et Outils Agile:**
   - [![Scrum](https://img.shields.io/badge/scrum-black?style=for-the-badge&logo=scrum)](https://github.com/Sahlias)
-  - [![Kanban](https://img.shields.io/badge/kanban-black?style=for-the-badge&logo=kanban)](https://github.com/Sahlias)
   - [![Trello](https://img.shields.io/badge/trello-black?style=for-the-badge&logo=trello)](https://trello.com/)
 
 - **Design:**
