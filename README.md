@@ -76,6 +76,11 @@ Je suis actuellement étudiant chez [IB cegos](https://www.ib-formation.fr/)
 - **Éditeurs de Code:**
   - [![VS Code](https://img.shields.io/badge/vs_code-black?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 
+- **Tests Automatiques:**
+  - [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
+  - [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
+
+
 
 ### Outils
 [![Canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva)](https://www.canva.com/)
