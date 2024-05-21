@@ -26,7 +26,8 @@
 
 ### Objectif
 
-Je suis actuellement étudiant chez [Simplon](https://simplon.co/), suivant une formation en Concepteur Développeur d'Applications avec une spécialisation en environnement DevOps. Passionné par le développement logiciel et l'infrastructure, je suis à la recherche d'une entreprise à partir du 12/02/2024 pour mon alternance au rythme de 3 semaine en entreprise et 1 semaine en formation, où je pourrais mettre en pratique mes compétences et contribuer à des projets stimulants.
+Après une reconversion professionnelle réussie en tant que développeur web et web mobile, je suis enthousiaste à l'idée de poursuivre ma croissance professionnelle. Actuellement en formation de testeur logiciel, je suis motivé pour acquérir de nouvelles compétences et développer mon expertise dans le métier de testeur automatique.
+Je suis actuellement étudiant chez [IB cegos](https://www.ib-formation.fr/)
 
 ### Compétences Techniques
 
