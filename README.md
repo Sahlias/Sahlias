@@ -5,7 +5,7 @@
     <i>
         Je suis Asaad.<br>
        Je suis Testeur logiciel et développeur fullstack.<br>
-         N'hésitez pas à jeter un coup d'œil à mes projets<br>
+         N'hésitez pas à jeter un coup d'œil à mes projets!<br>🚀
     </i><br>
   
 
