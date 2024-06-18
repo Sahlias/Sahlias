@@ -29,7 +29,7 @@
 Après une reconversion professionnelle réussie en tant que développeur web et web mobile, je suis enthousiaste à l'idée de poursuivre ma croissance professionnelle. Actuellement en formation de testeur logiciel, je suis motivé pour acquérir de nouvelles compétences et développer mon expertise dans le métier de testeur automatique.
 Je suis actuellement étudiant chez [IB cegos](https://www.ib-formation.fr/)
 
-###💻Compétences Techniques
+### Compétences Techniques 💻
 
 - **Développement Frontend:**
   - [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Sahlias)
