@@ -1,4 +1,4 @@
-#💫<h1 align="center">Salut à tous ! "👋" </h1>
+<h1 align="center">💫Salut à tous ! "👋" </h1>
 
 <p align="center">
     <b>Bienvenue sur ma page !</b><br><br>
