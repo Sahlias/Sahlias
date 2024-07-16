@@ -79,10 +79,16 @@ Je suis actuellement étudiant chez [IB cegos](https://www.ib-formation.fr/)
   - [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 
 - **Tests Fonctionnels et Non Fonctionnels:**
+  - Assurance qualité
+  - Planification des tests
+  - Tests manuels
   - Tests fonctionnels
   - Tests non fonctionnels
+  - Tests de régression
+  - Tests de confirmation
+  - Tests d'intégration
+  - Tests système
   - Tests d'exécution
-  - Assurance qualité
 
 
 ### Outils
