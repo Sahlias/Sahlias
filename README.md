@@ -78,17 +78,17 @@ Je suis actuellement étudiant chez [IB cegos](https://www.ib-formation.fr/)
   - [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
   - [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 
-- **Tests Fonctionnels et Non Fonctionnels:**
-  - Assurance qualité
-  - Planification des tests
-  - Tests manuels
-  - Tests fonctionnels
-  - Tests non fonctionnels
-  - Tests de régression
-  - Tests de confirmation
-  - Tests d'intégration
-  - Tests système
-  - Tests d'exécution
+- **Testeur logiciel:**
+  - ![Assurance qualité](https://img.shields.io/badge/assurance_qualité-black?style=for-the-badge&logo=quality)
+  - ![Planification des tests](https://img.shields.io/badge/planification_des_tests-black?style=for-the-badge&logo=planning)
+  - ![Tests manuels](https://img.shields.io/badge/tests_manuels-black?style=for-the-badge&logo=manual-testing)
+  - ![Tests fonctionnels](https://img.shields.io/badge/tests_fonctionnels-black?style=for-the-badge&logo=functional-testing)
+  - ![Tests non fonctionnels](https://img.shields.io/badge/tests_non_fonctionnels-black?style=for-the-badge&logo=non-functional-testing)
+  - ![Tests de régression](https://img.shields.io/badge/tests_de_régression-black?style=for-the-badge&logo=regression-testing)
+  - ![Tests de confirmation](https://img.shields.io/badge/tests_de_confirmation-black?style=for-the-badge&logo=confirmation-testing)
+  - ![Tests d'intégration](https://img.shields.io/badge/tests_d'intégration-black?style=for-the-badge&logo=integration-testing)
+  - ![Tests système](https://img.shields.io/badge/tests_système-black?style=for-the-badge&logo=system-testing)
+  - ![Tests d'exécution](https://img.shields.io/badge/tests_d'exécution-black?style=for-the-badge&logo=performance-testing)
 
 
 ### Outils
