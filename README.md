@@ -52,7 +52,6 @@ Je suis actuellement étudiant chez [IB cegos](https://www.ib-formation.fr/)
 - **Environnement DevOps:**
   - [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Sahlias)
   - [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/Sahlias)
-  - [![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/Sahlias)
   - [![CI/CD](https://img.shields.io/badge/ci/cd-black?style=for-the-badge&logo=continuous-integration)](https://github.com/Sahlias)
 
 - **Utilisation d'API:**
