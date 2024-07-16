@@ -79,6 +79,11 @@ Je suis actuellement étudiant chez [IB cegos](https://www.ib-formation.fr/)
   - [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
   - [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 
+- **Tests Fonctionnels et Non Fonctionnels:**
+  - Tests fonctionnels
+  - Tests non fonctionnels
+  - Tests d'exécution
+  - Assurance qualité
 
 
 ### Outils
@@ -94,6 +99,7 @@ Je suis actuellement étudiant chez [IB cegos](https://www.ib-formation.fr/)
 [![Looping](https://img.shields.io/badge/Looping-black?style=for-the-badge&logo=looping)](https://www.looping.com/)
 [![DBeaver](https://img.shields.io/badge/DBeaver-black?style=for-the-badge&logo=dbeaver)](https://dbeaver.io/)
 [![HeidiSQL](https://img.shields.io/badge/HeidiSQL-black?style=for-the-badge&logo=heidisql)](https://www.heidisql.com/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube)](https://www.sonarqube.org/)
 
 
 </p>
